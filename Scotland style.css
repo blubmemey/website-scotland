@@ -96,7 +96,7 @@ article h2 {
     margin-bottom: 20px;
 }
 
-#content img {
+#content article img {
     width: 100%;
     height: auto;
     display: block;
